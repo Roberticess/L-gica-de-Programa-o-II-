@@ -1,3 +1,3 @@
-# L-gica-de-Programa-o-II-
+#  Logica de Programacao II
 Curso Alura
 Linguage HTML e JavaScript;
